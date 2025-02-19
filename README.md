@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanak Raj Arora</h1>
 <h3 align="center">A passionate college student from India exploring development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakrajarora&label=Profile%20views&color=0e75b6&style=flat" alt="kanakrajarora" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
