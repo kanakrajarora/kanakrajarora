@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img style="pointer-events: none;" src="https://readme-typing-svg.demolab.com?font=playfair+display&pause=1000&color=18CC76&left=true&width=435&lines=Hi%2C+I'm Kanak Raj Arora" alt="Typing SVG">
 </p>
 
