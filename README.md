@@ -1,7 +1,4 @@
 
-<p align="left">
-  <img style="pointer-events: none;" src="https://readme-typing-svg.demolab.com?font=playfair+display&pause=1000&color=18CC76&left=true&width=435&lines=Hi%2C+I'm Kanak Raj Arora" alt="Typing SVG">
-</p>
 
 - 🌱 I’m currently learning ML and MERN
 - 💬 Open to collaborating on projects related to Python and Machine Learning.
